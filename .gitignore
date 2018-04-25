@@ -9,6 +9,7 @@
 .apt_generated/
 
 target/
+eclipse_plugin/lib/
 
 bin/
 out/
